@@ -1,48 +1,48 @@
 # IPTV Studio
 
-Android TV ve TV box için IPTV oynatıcı. Kumandayla rahat kullanılacak şekilde yapıldı.
+An IPTV player for Android TV and TV boxes, built to be used comfortably with a remote.
 
-## ⬇️ İndir
+## ⬇️ Download
 
 **[IPTV-Studio.apk](https://github.com/canmurat5734-netizen/iptv-studio/releases/latest/download/IPTV-Studio.apk)**
 
-Bu link her zaman en son sürümü indirir.
+This link always downloads the latest version.
 
-> ⚠️ **İçinde kanal veya yayın yok.** IPTV Studio sadece bir oynatıcıdır. Kullanmak için
-> kendi IPTV aboneliğinin M3U linki ya da Xtream bilgileri gerekir.
+> ⚠️ **No channels or streams are included.** IPTV Studio is only a player. You need the
+> M3U link or Xtream login of your own IPTV subscription to use it.
 
-## Özellikler
+## Features
 
-- Canlı TV, Filmler, Diziler (sezon ve bölüm)
-- **Xtream Codes** ve **M3U / M3U Plus** desteği
-- Kaldığın yerden devam et, izleme geçmişi
-- Favoriler (kumandada **SAĞ ok** veya **kırmızı tuş**)
-- 2x2 çoklu ekran (4 kanal aynı anda)
-- Ses ve altyazı seçimi (**MENU** tuşu)
-- Donanım hızlandırmalı oynatma (ExoPlayer), ucuz TV box'larda da akıcı
-- Android 5.0 ve üzeri
+- Live TV, Movies, Series (seasons and episodes)
+- **Xtream Codes** and **M3U / M3U Plus** support
+- Continue watching and watch history
+- Favourites (**RIGHT arrow** or the **red button** on the remote)
+- 2x2 multi-view (4 channels at once)
+- Audio and subtitle track selection (**MENU** button)
+- Hardware-accelerated playback (ExoPlayer), smooth even on budget TV boxes
+- Android 5.0 and up
 
-## TV'ye kurulum
+## Installing on your TV
 
-**Yöntem 1: Downloader uygulamasıyla (en kolayı)**
-1. TV'de Play Store'dan **Downloader** uygulamasını kur.
-2. Downloader'ı aç ve adres kısmına yukarıdaki indirme linkini yaz.
-3. İnen dosyayı kur. Bilinmeyen kaynak izni sorarsa izin ver.
+**Option 1: With the Downloader app (easiest)**
+1. Install **Downloader** from the Play Store on your TV.
+2. Open it and enter the download link above.
+3. Install the downloaded file. Allow installs from unknown sources if asked.
 
-**Yöntem 2: USB bellekle**
-1. APK'yı bilgisayara indir ve USB belleğe kopyala.
-2. Belleği TV'ye tak, bir dosya yöneticisiyle APK'yı açıp kur.
+**Option 2: With a USB stick**
+1. Download the APK on your computer and copy it to a USB stick.
+2. Plug the stick into your TV and open the APK with a file manager to install it.
 
-## İlk açılış
+## First launch
 
-1. Uygulamada **Kaynaklar** bölümüne gir.
-2. Ya M3U linkini ya da Xtream bilgilerini (sunucu, kullanıcı adı, şifre) gir.
-3. Kanallar yüklendikten sonra **Canlı / Filmler / Diziler** menülerinden izlemeye başla.
+1. Go to **Sources** in the app.
+2. Enter either your M3U link or your Xtream details (server, username, password).
+3. Once the channels have loaded, start watching from **Live / Movies / Series**.
 
-Girdiğin bilgiler sadece kendi cihazında saklanır ve yalnızca kendi IPTV sunucuna bağlanmak için kullanılır.
-Uygulama başka hiçbir yere veri göndermez.
+Your details are stored only on your own device and are used only to connect to your own
+IPTV server. The app does not send data anywhere else.
 
-## Güncelleme
+## Updating
 
-Yeni sürüm çıktığında aynı linkten indirip üstüne kurman yeterli. Ayarların, favorilerin ve
-geçmişin silinmez.
+When a new version is released, download it from the same link and install it over the old
+one. Your settings, favourites and history are kept.
