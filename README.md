@@ -21,6 +21,7 @@ This link always downloads the latest version.
 - Audio and subtitle track selection (**MENU** button)
 - Hardware-accelerated playback (ExoPlayer), smooth even on budget TV boxes
 - Android 5.0 and up
+- Interface language: Turkish
 
 ## Installing on your TV
 
@@ -35,9 +36,9 @@ This link always downloads the latest version.
 
 ## First launch
 
-1. Go to **Sources** in the app.
+1. Go to **Kaynaklar** (Sources) in the app.
 2. Enter either your M3U link or your Xtream details (server, username, password).
-3. Once the channels have loaded, start watching from **Live / Movies / Series**.
+3. Once the channels have loaded, start watching from **Canlı / Filmler / Diziler** (Live / Movies / Series).
 
 Your details are stored only on your own device and are used only to connect to your own
 IPTV server. The app does not send data anywhere else.
