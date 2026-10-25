@@ -4,7 +4,7 @@ An IPTV player for Android TV and TV boxes, built to be used comfortably with a 
 
 ## ⬇️ Download
 
-**[IPTV-Studio.apk](https://github.com/canmurat5734-netizen/iptv-studio/releases/latest/download/IPTV-Studio.apk)**
+**[IPTV-Studio.apk](https://github.com/Walterr00/iptv-studio/releases/latest/download/IPTV-Studio.apk)**
 
 This link always downloads the latest version.
 
