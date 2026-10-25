@@ -56,3 +56,18 @@ IPTV server. The app does not send data anywhere else.
 
 When a new version is released, download it from the same link and install it over the old
 one. Your settings, favourites and history are kept.
+
+## Disclaimer
+
+IPTV Studio is a media player only. It does not provide, host, sell or link to any channels,
+playlists, streams or subscriptions, and it is not affiliated with any IPTV provider.
+
+You are solely responsible for the content you play with it and for making sure your IPTV
+subscription and its use are legal where you live. Do not use IPTV Studio with pirated or
+unlicensed content.
+
+## License
+
+IPTV Studio is free to download and use. It is provided "as is", without warranty of any kind.
+See [LICENSE](LICENSE) for the full terms and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
+for the open-source components it includes.
